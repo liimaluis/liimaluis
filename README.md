@@ -4,6 +4,7 @@
 - 🌱 Buscando aprender mais a cada dia ...
 - 📫 How to reach me: luish6629@gmail.com
 - ✔ Tenho conhecimento em Front-End e Back-End ...
+- ✔ Atualmente me especializando em Cloud Computing
 -->
 
 <div align="center">
