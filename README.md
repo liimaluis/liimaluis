@@ -1,11 +1,12 @@
 <h1>Hello, my name is Luis Henrique, welcome to my codeverse!!</h1>
 
 <h2>About me:</h2>
+<div display: block>
 - 🌱 Seeking to learn more every day ...
 - 📫 How to reach me: luish6629@gmail.com
 - ✔ I have knowledge in front and back end ...
 - ✔ Currently specializing in Cloud Computing
--->
+--></div>
 
 <div align="center">
   <a href="https://github.com/liimaluis">
