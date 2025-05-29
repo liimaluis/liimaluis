@@ -1,4 +1,4 @@
-<h1>Olá eu sou o Luis Henrique e seja Bem Vindo ao meu perfil no GitHub!!</h1>
+<h1>Hello, my name is Luis Henrique, welcome to my codeverse!!</h1>
 
 
 - 🌱 Buscando aprender mais a cada dia ...
@@ -13,6 +13,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liimaluis&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<div>
+<h2>My Stacks:</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -26,6 +28,7 @@
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</div>
 </div>
 
 ##
