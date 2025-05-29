@@ -1,10 +1,10 @@
 <h1>Hello, my name is Luis Henrique, welcome to my codeverse!!</h1>
 
-
-- 🌱 Buscando aprender mais a cada dia ...
+<h2>About me:</h2>
+- 🌱 Seeking to learn more every day ...
 - 📫 How to reach me: luish6629@gmail.com
-- ✔ Tenho conhecimento em Front-End e Back-End ...
-- ✔ Atualmente me especializando em Cloud Computing
+- ✔ I have knowledge in front and back end ...
+- ✔ Currently specializing in Cloud Computing
 -->
 
 <div align="center">
