@@ -12,10 +12,31 @@
 --></div>
 
 <div align="center">
-  <a href="https://github.com/liimaluis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liimaluis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liimaluis&layout=compact&langs_count=7&theme=dark"/>
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+
+<br/>
+
+<br/>
+
 
 <div>
 <h2>My Stacks:</h2>
@@ -30,13 +51,13 @@
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Luis-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Luis-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 </div>
 
-##
-
-<div> 
-  <a href="https://www.linkedin.com/in/luis-henrique-3b2698159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/luis-henrique-3b2698159/">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
 </div>
